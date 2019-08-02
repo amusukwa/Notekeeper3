@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636989425114",
+    "firebase_url": "https://notekeeper3.firebaseio.com",
+    "project_id": "notekeeper3",
+    "storage_bucket": "notekeeper3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636989425114:android:36da16b68343c390",
+        "android_client_info": {
+          "package_name": "com.example.notekeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636989425114-tijhhfancfjhtj3cn84gs30abchiv9jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notekeeper",
+            "certificate_hash": "09ef8d52c108dbe9ef19bb7f7dcb8bf1632d763e"
+          }
+        },
+        {
+          "client_id": "636989425114-eckdrlhu6s9p2r07pdsjhdochtlqko0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4fymJO1QhpxnylmGj43xGvhjmzUf4yyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636989425114-eckdrlhu6s9p2r07pdsjhdochtlqko0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
